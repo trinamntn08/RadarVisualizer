@@ -39,4 +39,9 @@ The primary goal of the Radar Visualizer is to demonstrate how to set up a basic
    cmake --build .
 
 ### Running the Application
-After building the project, you can run the executable from the bin directory.
+After building the project, you can run the `run.bat` file to execute the application. 
+This script sets the necessary environment variable for the shader directory before launching the executable.
+
+## Project Status
+Please note that this project is still in progress, and additional functionalities will be added in future updates.
+
