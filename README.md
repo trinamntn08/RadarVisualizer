@@ -36,7 +36,7 @@ The primary goal of the Radar Visualizer is to demonstrate how to set up a basic
 
 4. Build the project:
    ```bash
-   cmake --build
+   cmake --build .
 
 ### Running the Application
 After building the project, you can run the executable from the bin directory.
