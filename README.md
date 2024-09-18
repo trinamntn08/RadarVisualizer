@@ -1,5 +1,5 @@
 # Radar Visualizer
-
+![Radar Visualization](intro.gif)
 ## Overview
 The **Radar Visualizer** project serves as a template for developing radar visualization applications using OpenGL. This project provides a structured starting point, enabling developers to efficiently create and manipulate radar data visualizations.
 
